@@ -1,0 +1,12 @@
+10 SQL Queries
+
+Retrieve all sales made on 2022-11-05.
+Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in November 2022.
+Calculate the total sales for each product category.
+Find the average age of customers who purchased items from the Beauty category.
+Find all transactions where the total sale is greater than 1000.
+Find the total number of transactions made by each gender in each category.
+Calculate the average sale for each month and identify the best-selling month in each year.
+Find the Top 5 customers based on the highest total sales.
+Find the number of unique customers who purchased items from each category.
+Create Morning, Afternoon, and Evening shifts based on the sale time and find the number of orders in each shift.
