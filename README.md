@@ -58,13 +58,13 @@ Retail-Sales-SQL-Analysis
 - SQL Queries/
 - Screenshots/
 - README.md
-  
-Made By
-Swati Ayane 
+   
+
 
 
 ---
 
 ## Author
+Swati Ayane 
 
 Your Name
